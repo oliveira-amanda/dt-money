@@ -15,8 +15,8 @@ export const GlobalStyle = createGlobalStyle`
     --background: #F0F2F5;
     --shape: #FFFFFF;
 
-    --background-input: #E7E9EE;
-    --border-input: #D7D7D7
+    --input-background: #E7E9EE;
+    --input-border: #D7D7D7;
   }
 
   * {
